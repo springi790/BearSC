@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pressed0000" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Pressed0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Pressed0002" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Pressed0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Static" x="0" y="720" width="1280" height="720"/>
+</TextureAtlas>

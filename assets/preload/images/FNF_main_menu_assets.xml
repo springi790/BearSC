@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay Idle0000" x="1544" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0000" x="0" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0001" x="386" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0002" x="772" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0003" x="1158" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0004" x="1544" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0005" x="1544" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0006" x="1544" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0007" x="1158" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0008" x="772" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0009" x="386" y="0" width="386" height="290"/>
+	<SubTexture name="freeplay Selected0010" x="0" y="0" width="386" height="290"/>
+	<SubTexture name="options Idle0000" x="0" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0000" x="0" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0001" x="386" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0002" x="772" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0003" x="1158" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0004" x="1544" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0005" x="1544" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0006" x="1158" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0007" x="772" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0008" x="386" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0009" x="0" y="290" width="386" height="290"/>
+	<SubTexture name="options Selected0010" x="386" y="290" width="386" height="290"/>
+	<SubTexture name="story mode Idle0000" x="0" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0000" x="386" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0001" x="386" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0002" x="386" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0003" x="772" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0004" x="772" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0005" x="772" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0006" x="772" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0007" x="772" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0008" x="386" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0009" x="386" y="580" width="386" height="290"/>
+	<SubTexture name="story mode Selected0010" x="386" y="580" width="386" height="290"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mecha-Bearzerker.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mecha_Down0000" x="0" y="0" width="1634" height="1358" frameX="0" frameY="-95" frameWidth="1634" frameHeight="1453"/>
+	<SubTexture name="Mecha_Down0001" x="1634" y="0" width="1634" height="1420" frameX="0" frameY="-33" frameWidth="1634" frameHeight="1453"/>
+	<SubTexture name="Mecha_Down0002" x="3268" y="0" width="1634" height="1439" frameX="0" frameY="-14" frameWidth="1634" frameHeight="1453"/>
+	<SubTexture name="Mecha_Down0003" x="4902" y="0" width="1634" height="1447" frameX="0" frameY="-6" frameWidth="1634" frameHeight="1453"/>
+	<SubTexture name="Mecha_Down0004" x="6536" y="0" width="1634" height="1453"/>
+	<SubTexture name="Mecha_Idle0000" x="0" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0001" x="1077" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0002" x="2154" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0003" x="3231" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0004" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0005" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0006" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0007" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0008" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0009" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0010" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0011" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0012" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0013" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0014" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0015" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0016" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0019" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0020" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0021" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0022" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Idle0023" x="4308" y="1453" width="1077" height="1509"/>
+	<SubTexture name="Mecha_Left0000" x="5385" y="1453" width="1515" height="1474"/>
+	<SubTexture name="Mecha_Left0001" x="0" y="2962" width="1515" height="1474"/>
+	<SubTexture name="Mecha_Left0002" x="1515" y="2962" width="1515" height="1474"/>
+	<SubTexture name="Mecha_Left0003" x="3030" y="2962" width="1515" height="1474"/>
+	<SubTexture name="Mecha_Left0004" x="4545" y="2962" width="1515" height="1474"/>
+	<SubTexture name="Mecha_Right0000" x="6060" y="2962" width="1250" height="1563"/>
+	<SubTexture name="Mecha_Right0001" x="0" y="4525" width="1250" height="1563"/>
+	<SubTexture name="Mecha_Right0002" x="1250" y="4525" width="1250" height="1563"/>
+	<SubTexture name="Mecha_Right0003" x="2500" y="4525" width="1250" height="1563"/>
+	<SubTexture name="Mecha_Right0004" x="3750" y="4525" width="1250" height="1563"/>
+	<SubTexture name="Mecha_Right0005" x="5000" y="4525" width="1250" height="1563"/>
+	<SubTexture name="Mecha_Up0000" x="6250" y="4525" width="1455" height="1590"/>
+	<SubTexture name="Mecha_Up0001" x="0" y="6115" width="1455" height="1590"/>
+	<SubTexture name="Mecha_Up0002" x="1455" y="6115" width="1455" height="1590"/>
+	<SubTexture name="Mecha_Up0003" x="1455" y="6115" width="1455" height="1590"/>
+	<SubTexture name="Mecha_Up0004" x="2910" y="6115" width="1455" height="1590"/>
+	<SubTexture name="Mecha_Up0005" x="4365" y="6115" width="1455" height="1590"/>
+	<SubTexture name="Mecha_Up0006" x="5820" y="6115" width="1455" height="1590"/>
+</TextureAtlas>

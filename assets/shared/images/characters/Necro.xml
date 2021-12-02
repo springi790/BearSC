@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Necro.png">
+<SubTexture name="Necro idle0000" x="0" y="0" width="535" height="682" frameX="0" frameY="0" frameWidth="535" frameHeight="682" />
+<SubTexture name="Necro idle0001" x="535" y="0" width="535" height="682" frameX="0" frameY="0" frameWidth="535" frameHeight="682" />
+<SubTexture name="Necro idle0002" x="1070" y="0" width="535" height="682" frameX="0" frameY="0" frameWidth="535" frameHeight="682" />
+<SubTexture name="Necro idle0003" x="1605" y="0" width="535" height="682" frameX="0" frameY="0" frameWidth="535" frameHeight="682" />
+<SubTexture name="Necro idle0004" x="2140" y="0" width="535" height="682" frameX="0" frameY="0" frameWidth="535" frameHeight="682" />
+<SubTexture name="Necro timetodie0000" x="874" y="2062" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0001" x="1748" y="2062" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0002" x="2622" y="2062" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0003" x="3496" y="2062" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0004" x="4370" y="2062" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0005" x="874" y="2736" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0006" x="1748" y="2736" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0007" x="2622" y="2736" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0008" x="3496" y="2736" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0009" x="4370" y="2736" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0010" x="874" y="3410" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+<SubTexture name="Necro timetodie0011" x="1748" y="3410" width="874" height="674" frameX="0" frameY="0" frameWidth="874" frameHeight="674" />
+</TextureAtlas>

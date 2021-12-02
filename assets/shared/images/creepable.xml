@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="creepable.png"><SubTexture name="creepable idle0000" x="0" y="0" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0001" x="159" y="0" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0002" x="318" y="0" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0003" x="0" y="134" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0004" x="159" y="134" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0005" x="318" y="134" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0006" x="0" y="268" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0007" x="159" y="268" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0008" x="318" y="268" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0009" x="0" y="402" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0010" x="0" y="402" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0011" x="318" y="268" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0012" x="159" y="268" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0013" x="0" y="268" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0014" x="318" y="134" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0015" x="159" y="134" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0016" x="0" y="134" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0017" x="318" y="0" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0018" x="159" y="0" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+<SubTexture name="creepable idle0019" x="0" y="0" width="159" height="134" frameX="0" frameY="0" frameWidth="159" frameHeight="134" />
+</TextureAtlas>

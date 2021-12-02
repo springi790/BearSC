@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_bear.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beardown0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="beardown0001" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="beardown0002" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="beardown0003" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="beardown0004" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearleft0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearleft0001" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearleft0002" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearleft0003" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearleft0004" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearright0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearright0001" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearright0002" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearright0003" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearright0004" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearup0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="bearup0001" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="bearup0002" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="bearup0003" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="bearup0004" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="bear hold0000" x="0" y="468" width="50" height="44"/>
+	<SubTexture name="bear tail0000" x="58" y="448" width="50" height="64"/>
+
+</TextureAtlas>

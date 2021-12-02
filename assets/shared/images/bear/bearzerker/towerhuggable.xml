@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="towerhuggable.png">
+<SubTexture name="towerhuggable0000" x="0" y="0" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0001" x="5317" y="0" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0002" x="10634" y="0" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0003" x="0" y="2527" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0004" x="5317" y="2527" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0005" x="10634" y="2527" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0006" x="0" y="5054" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0007" x="5317" y="5054" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0008" x="10634" y="5054" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0009" x="0" y="7581" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0010" x="5317" y="7581" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+<SubTexture name="towerhuggable0011" x="10634" y="7581" width="5317" height="2527" frameX="0" frameY="0" frameWidth="5317" frameHeight="2527" />
+</TextureAtlas>

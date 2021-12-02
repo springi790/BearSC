@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_health.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HealthDown0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="HealthDown0001" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthDown0002" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthDown0003" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthDown0004" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthDown0005" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthDown0006" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthDown0007" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthDown0008" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthDown0009" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="HealthLeft0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="HealthLeft0001" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthLeft0002" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthLeft0003" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthLeft0004" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthLeft0005" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthLeft0006" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthLeft0007" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthLeft0008" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthLeft0009" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="HealthRight0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="HealthRight0001" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthRight0002" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthRight0003" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthRight0004" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthRight0005" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthRight0006" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthRight0007" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthRight0008" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthRight0009" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="HealthUp0000" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="HealthUp0001" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthUp0002" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthUp0003" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthUp0004" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthUp0005" x="154" y="154" width="154" height="154"/>
+	<SubTexture name="HealthUp0006" x="0" y="154" width="154" height="154"/>
+	<SubTexture name="HealthUp0007" x="308" y="0" width="154" height="154"/>
+	<SubTexture name="HealthUp0008" x="154" y="0" width="154" height="154"/>
+	<SubTexture name="HealthUp0009" x="0" y="0" width="154" height="154"/>
+	<SubTexture name="health hold0000" x="0" y="468" width="50" height="44"/>
+	<SubTexture name="health tail0000" x="58" y="448" width="50" height="64"/>
+</TextureAtlas>

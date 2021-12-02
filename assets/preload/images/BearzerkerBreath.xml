@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BearzerkerBreath.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0002" x="0" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0003" x="2781" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0004" x="0" y="1447" width="2781" height="1447"/>
+	<SubTexture name="Idle0005" x="2781" y="1447" width="2781" height="1447"/>
+	<SubTexture name="Idle0006" x="0" y="2894" width="2781" height="1447"/>
+	<SubTexture name="Idle0007" x="2781" y="2894" width="2781" height="1447"/>
+	<SubTexture name="Idle0008" x="0" y="4341" width="2781" height="1447"/>
+	<SubTexture name="Idle0009" x="2781" y="4341" width="2781" height="1447"/>
+	<SubTexture name="Idle0010" x="0" y="5788" width="2781" height="1447"/>
+	<SubTexture name="Idle0011" x="2781" y="5788" width="2781" height="1447"/>
+	<SubTexture name="Idle0012" x="0" y="5788" width="2781" height="1447"/>
+	<SubTexture name="Idle0013" x="2781" y="4341" width="2781" height="1447"/>
+	<SubTexture name="Idle0014" x="0" y="4341" width="2781" height="1447"/>
+	<SubTexture name="Idle0015" x="2781" y="2894" width="2781" height="1447"/>
+	<SubTexture name="Idle0016" x="0" y="2894" width="2781" height="1447"/>
+	<SubTexture name="Idle0017" x="2781" y="1447" width="2781" height="1447"/>
+	<SubTexture name="Idle0018" x="0" y="1447" width="2781" height="1447"/>
+	<SubTexture name="Idle0019" x="2781" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0020" x="0" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0021" x="0" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0022" x="0" y="0" width="2781" height="1447"/>
+	<SubTexture name="Idle0023" x="0" y="0" width="2781" height="1447"/>
+</TextureAtlas>

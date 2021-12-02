@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="necromancer.png"><SubTexture name="necromancer idle0000" x="0" y="0" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+<SubTexture name="necromancer idle0001" x="483" y="0" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+<SubTexture name="necromancer idle0002" x="0" y="363" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+<SubTexture name="necromancer idle0003" x="483" y="363" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+<SubTexture name="necromancer idle0004" x="0" y="726" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+<SubTexture name="necromancer idle0005" x="483" y="726" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+<SubTexture name="necromancer idle0006" x="0" y="1089" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+<SubTexture name="necromancer idle0007" x="483" y="1089" width="483" height="363" frameX="0" frameY="0" frameWidth="483" frameHeight="363" />
+</TextureAtlas>

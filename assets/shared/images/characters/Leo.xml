@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Leo.png">
+<SubTexture name="Leo Idle0000" x="0" y="0" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0001" x="2231" y="0" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0002" x="4462" y="0" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0003" x="0" y="1731" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0004" x="2231" y="1731" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0005" x="4462" y="1731" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0006" x="0" y="3462" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0007" x="2231" y="3462" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0008" x="4462" y="3462" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0009" x="0" y="5193" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0010" x="2231" y="5193" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0011" x="4462" y="5193" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0012" x="0" y="6924" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo idle0000" x="2231" y="6924" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+<SubTexture name="Leo Idle0013" x="4462" y="6924" width="2231" height="1731" frameX="0" frameY="0" frameWidth="2231" frameHeight="1731" />
+</TextureAtlas>

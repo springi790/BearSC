@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="floor.png"><SubTexture name="floor idle0000" x="0" y="0" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0001" x="4100" y="0" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0002" x="8200" y="0" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0003" x="0" y="2094" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0004" x="4100" y="2094" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0005" x="8200" y="2094" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0006" x="0" y="4188" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0007" x="4100" y="4188" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0008" x="8200" y="4188" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0009" x="0" y="6282" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+<SubTexture name="floor idle0010" x="4100" y="6282" width="4100" height="2094" frameX="0" frameY="0" frameWidth="4100" frameHeight="2094" />
+</TextureAtlas>

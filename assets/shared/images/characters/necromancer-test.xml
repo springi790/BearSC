@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="necromancer-test.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Necomancer Laughing0000" x="0" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0001" x="578" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0002" x="1156" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0003" x="1734" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0004" x="2312" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0005" x="0" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0006" x="578" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0007" x="1156" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0008" x="1734" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0009" x="2312" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0010" x="0" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0011" x="578" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0012" x="1156" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0013" x="1734" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0014" x="2312" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0015" x="0" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0016" x="578" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0017" x="1156" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0018" x="1734" y="0" width="578" height="761"/>
+	<SubTexture name="Necomancer Laughing0019" x="2312" y="0" width="578" height="761"/>
+	<SubTexture name="Necromancer Alt-idle0000" x="2890" y="0" width="623" height="686"/>
+	<SubTexture name="Necromancer Alt-idle0001" x="3513" y="0" width="623" height="686"/>
+	<SubTexture name="Necromancer Alt-idle0002" x="4136" y="0" width="623" height="686"/>
+	<SubTexture name="Necromancer Alt-idle0003" x="4759" y="0" width="623" height="686"/>
+	<SubTexture name="Necromancer Alt-idle0004" x="5382" y="0" width="623" height="686"/>
+	<SubTexture name="Necromancer Alt-idle0005" x="5382" y="0" width="623" height="686"/>
+	<SubTexture name="Necromancer Down0000" x="6005" y="0" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0001" x="6691" y="0" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0002" x="7377" y="0" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0003" x="0" y="761" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0004" x="0" y="761" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0005" x="0" y="761" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0006" x="0" y="761" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0007" x="0" y="761" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0008" x="0" y="761" width="686" height="676"/>
+	<SubTexture name="Necromancer Down0009" x="0" y="761" width="686" height="676"/>
+	<SubTexture name="Necromancer Idle0000" x="686" y="761" width="531" height="678"/>
+	<SubTexture name="Necromancer Idle0001" x="1217" y="761" width="531" height="678"/>
+	<SubTexture name="Necromancer Idle0002" x="1748" y="761" width="531" height="678"/>
+	<SubTexture name="Necromancer Idle0003" x="2279" y="761" width="531" height="678"/>
+	<SubTexture name="Necromancer Idle0004" x="2810" y="761" width="531" height="678"/>
+	<SubTexture name="Necromancer Idle0005" x="2810" y="761" width="531" height="678"/>
+	<SubTexture name="Necromancer Left0000" x="3341" y="761" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0001" x="4328" y="761" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0002" x="5315" y="761" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0003" x="6302" y="761" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0004" x="0" y="1569" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0005" x="0" y="1569" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0006" x="0" y="1569" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0007" x="0" y="1569" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0008" x="0" y="1569" width="987" height="808"/>
+	<SubTexture name="Necromancer Left0009" x="0" y="1569" width="987" height="808"/>
+	<SubTexture name="Necromancer Right0000" x="987" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0001" x="1629" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0002" x="2271" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0003" x="2913" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0004" x="2913" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0005" x="2913" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0006" x="2913" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0007" x="2913" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0008" x="2913" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Right0009" x="2913" y="1569" width="642" height="648"/>
+	<SubTexture name="Necromancer Time To Die0000" x="3555" y="1569" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0001" x="4421" y="1569" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0002" x="5287" y="1569" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0003" x="6153" y="1569" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0004" x="7019" y="1569" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0005" x="7019" y="1569" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0006" x="0" y="2377" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0007" x="866" y="2377" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0008" x="1732" y="2377" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0009" x="2598" y="2377" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0010" x="3464" y="2377" width="866" height="666"/>
+	<SubTexture name="Necromancer Time To Die0011" x="3464" y="2377" width="866" height="666"/>
+	<SubTexture name="Necromancer Up0000" x="4330" y="2377" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0001" x="5020" y="2377" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0002" x="5710" y="2377" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0003" x="6400" y="2377" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0004" x="7090" y="2377" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0005" x="0" y="3259" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0006" x="690" y="3259" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0007" x="1380" y="3259" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0008" x="1380" y="3259" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0009" x="1380" y="3259" width="690" height="882"/>
+	<SubTexture name="Necromancer Up0010" x="1380" y="3259" width="690" height="882"/>
+</TextureAtlas>

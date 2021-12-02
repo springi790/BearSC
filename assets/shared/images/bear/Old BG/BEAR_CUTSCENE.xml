@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BEAR_CUTSCENE.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BEAR_CUTSCENE0000" x="0" y="0" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0001" x="2160" y="0" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0002" x="4320" y="0" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0003" x="0" y="1620" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0004" x="2160" y="1620" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0005" x="4320" y="1620" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0006" x="4320" y="1620" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0007" x="4320" y="1620" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0008" x="0" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0009" x="0" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0010" x="0" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0011" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0012" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0013" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0014" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0015" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0016" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0017" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0018" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0019" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0020" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0021" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0022" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0023" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0024" x="2160" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0025" x="4320" y="3240" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0026" x="0" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0027" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0028" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0029" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0030" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0031" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0032" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0033" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0034" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0035" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0036" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0037" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0038" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0039" x="2160" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0040" x="4320" y="4860" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0041" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0042" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0043" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0044" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0045" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0046" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0047" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0048" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0049" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0050" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0051" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0052" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0053" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0054" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0055" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0056" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0057" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0058" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0059" x="0" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0060" x="2160" y="6480" width="2160" height="1620"/>
+	<SubTexture name="BEAR_CUTSCENE0061" x="2160" y="6480" width="2160" height="1620"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+bf
+gf
+dad
+necromancer
+necromancer-player
+bearzerker
+mechabearzerker
+bf-dia
+bearzombie
+bf-bearzerker
+creepzerker
+cybearzerker
+flippy-blood

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drainaura.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Drain0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Drain0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Drain0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="Drain0003" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Drain0004" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="Drain0005" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="Drain0006" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Drain0007" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Drain0008" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="Drain0009" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="Drain0010" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="Drain0011" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Drain0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Drain0013" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="Drain0014" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="Drain0015" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Drain0016" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="Drain0017" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Drain0018" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="Drain0019" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="Idle0000" x="2560" y="2160" width="1280" height="720"/>
+</TextureAtlas>
