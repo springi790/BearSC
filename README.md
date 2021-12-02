@@ -19,6 +19,11 @@ Another Fun Fact: Spring Engine is basically a combination of kade and psych eng
 # Custom Arrows for each character
 ![](https://user-images.githubusercontent.com/80663242/144484181-c1016747-bd65-4090-a15d-4103f9f312ac.gif)
 
+# Credits
+
+- IgnitedBoi - Artist & Animation
+- RADG - Music Composing & Charting
+- SPRINGI- Coding
 
 # Another Things
 
