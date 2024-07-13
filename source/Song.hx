@@ -53,55 +53,21 @@ class Song
 		while (!rawJson.endsWith("}"))
 		{
 			rawJson = rawJson.substr(0, rawJson.length - 1);
-			// LOL GOING THROUGH THE BULLSHIT TO CLEAN IDK WHATS STRANGE
 		}
-
-		// FIX THE CASTING ON WINDOWS/NATIVE
-		// Windows???
-		// trace(songData);
-
-		// trace('LOADED FROM JSON: ' + songData.notes);
-		/* 
-			for (i in 0...songData.notes.length)
-			{
-				trace('LOADED FROM JSON: ' + songData.notes[i].sectionNotes);
-				// songData.notes[i].sectionNotes = songData.notes[i].sectionNotes
-			}
-				daNotes = songData.notes;
-				daSong = songData.song;
-				daBpm = songData.bpm; */
-
 		return parseJSONshit(rawJson);
 	}
 
-	public static function loadFromJsonbearzerker(jsonInput:String, ?folder:String):SwagSong
+	public static function loadJsonfromFreeplay():SwagSong
 		{
-			var rawJson = Assets.getText('assets/data/' + 'the-bearzerker' + '/' + 'the-bearzerker' + FreeplayDiffSelect1.diffic + '.json').trim();
+			var rawJson = Assets.getText('assets/data/' + NewFreeplay.songID + '/' + NewFreeplay.songID + FreeplayDiffSelect.diffic + '.json').trim();
 	
 			while (!rawJson.endsWith("}"))
 			{
 				rawJson = rawJson.substr(0, rawJson.length - 1);
-				// LOL GOING THROUGH THE BULLSHIT TO CLEAN IDK WHATS STRANGE
 			}
-	
-			// FIX THE CASTING ON WINDOWS/NATIVE
-			// Windows???
-			// trace(songData);
-	
-			// trace('LOADED FROM JSON: ' + songData.notes);
-			/* 
-				for (i in 0...songData.notes.length)
-				{
-					trace('LOADED FROM JSON: ' + songData.notes[i].sectionNotes);
-					// songData.notes[i].sectionNotes = songData.notes[i].sectionNotes
-				}
-					daNotes = songData.notes;
-					daSong = songData.song;
-					daBpm = songData.bpm; */
-	
 			return parseJSONshit(rawJson);
 		}
-
+	
 		public static function loadEasterEgg(jsonInput:String, ?folder:String):SwagSong
 			{
 				var rawJson = Assets.getText('assets/data/' + 'monochrome' + '/' + 'monochrome' + '.json').trim();
@@ -109,78 +75,7 @@ class Song
 				while (!rawJson.endsWith("}"))
 				{
 					rawJson = rawJson.substr(0, rawJson.length - 1);
-					// LOL GOING THROUGH THE BULLSHIT TO CLEAN IDK WHATS STRANGE
-				}
-		
-				// FIX THE CASTING ON WINDOWS/NATIVE
-				// Windows???
-				// trace(songData);
-		
-				// trace('LOADED FROM JSON: ' + songData.notes);
-				/* 
-					for (i in 0...songData.notes.length)
-					{
-						trace('LOADED FROM JSON: ' + songData.notes[i].sectionNotes);
-						// songData.notes[i].sectionNotes = songData.notes[i].sectionNotes
-					}
-						daNotes = songData.notes;
-						daSong = songData.song;
-						daBpm = songData.bpm; */
-		
-				return parseJSONshit(rawJson);
-			}
-		public static function loadFromJsonarch(jsonInput:String, ?folder:String):SwagSong
-			{
-				var rawJson = Assets.getText('assets/data/' + 'necromancer' + '/' + 'necromancer' + '-hard' + '.json').trim();
-		
-				while (!rawJson.endsWith("}"))
-				{
-					rawJson = rawJson.substr(0, rawJson.length - 1);
-					// LOL GOING THROUGH THE BULLSHIT TO CLEAN IDK WHATS STRANGE
-				}
-		
-				// FIX THE CASTING ON WINDOWS/NATIVE
-				// Windows???
-				// trace(songData);
-		
-				// trace('LOADED FROM JSON: ' + songData.notes);
-				/* 
-					for (i in 0...songData.notes.length)
-					{
-						trace('LOADED FROM JSON: ' + songData.notes[i].sectionNotes);
-						// songData.notes[i].sectionNotes = songData.notes[i].sectionNotes
-					}
-						daNotes = songData.notes;
-						daSong = songData.song;
-						daBpm = songData.bpm; */
-		
-				return parseJSONshit(rawJson);
-			}
-		public static function loadFromJsonmecha(jsonInput:String, ?folder:String):SwagSong
-			{
-				var rawJson = Assets.getText('assets/data/' + 'mecha-bearzerker' + '/' + 'mecha-bearzerker' + FreeplayDiffSelect.diffic + '.json').trim();
-		
-				while (!rawJson.endsWith("}"))
-				{
-					rawJson = rawJson.substr(0, rawJson.length - 1);
-					// LOL GOING THROUGH THE BULLSHIT TO CLEAN IDK WHATS STRANGE
-				}
-		
-				// FIX THE CASTING ON WINDOWS/NATIVE
-				// Windows???
-				// trace(songData);
-		
-				// trace('LOADED FROM JSON: ' + songData.notes);
-				/* 
-					for (i in 0...songData.notes.length)
-					{
-						trace('LOADED FROM JSON: ' + songData.notes[i].sectionNotes);
-						// songData.notes[i].sectionNotes = songData.notes[i].sectionNotes
-					}
-						daNotes = songData.notes;
-						daSong = songData.song;
-						daBpm = songData.bpm; */
-		
+				}		
 				return parseJSONshit(rawJson);
 			}
 

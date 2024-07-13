@@ -6,6 +6,11 @@ import flixel.addons.transition.FlxTransitionableState;
 import flixel.addons.ui.FlxUIState;
 import flixel.math.FlxRect;
 import flixel.util.FlxTimer;
+import flixel.tweens.FlxTween;
+import flixel.FlxCamera;
+import flixel.util.FlxColor;
+import flixel.group.FlxGroup.FlxTypedGroup;
+import flixel.text.FlxText;
 
 class MusicBeatState extends FlxUIState
 {
@@ -27,6 +32,11 @@ class MusicBeatState extends FlxUIState
 		super.create();
 	}
 
+	public function toggleFullscreen():Void {
+		FlxG.fullscreen = !FlxG.fullscreen;
+	}
+	
+
 	override function update(elapsed:Float)
 	{
 		//everyStep();
@@ -34,6 +44,11 @@ class MusicBeatState extends FlxUIState
 
 		updateCurStep();
 		updateBeat();
+
+		if (FlxG.keys.justPressed.F11) {
+            // Alternar pantalla completa
+            toggleFullscreen();
+        }
 
 		if (oldStep != curStep && curStep > 0)
 			stepHit();
@@ -70,6 +85,6 @@ class MusicBeatState extends FlxUIState
 
 	public function beatHit():Void
 	{
-		//do literally nothing dumbass
+		
 	}
 }

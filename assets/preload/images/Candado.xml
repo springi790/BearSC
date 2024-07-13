@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Candado.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Candado animacion abierto0000" x="0" y="0" width="290" height="266" frameX="-88" frameY="-107" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0001" x="290" y="0" width="197" height="507" frameX="-146" frameY="0" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0002" x="487" y="0" width="207" height="446" frameX="-138" frameY="-24" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0003" x="694" y="0" width="218" height="420" frameX="-130" frameY="-33" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0004" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0005" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0006" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0007" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0008" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0009" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0010" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0011" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0012" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0013" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0014" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0015" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0016" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0017" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0018" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0019" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0020" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0021" x="912" y="0" width="183" height="411" frameX="-143" frameY="-36" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0022" x="1095" y="0" width="470" height="98" frameX="0" frameY="-248" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0023" x="1565" y="0" width="89" height="211" frameX="-190" frameY="-191" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0024" x="1654" y="0" width="89" height="10" frameX="-190" frameY="-292" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0025" x="1743" y="0" width="12" height="11" frameX="-231" frameY="-293" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0026" x="1755" y="0" width="98" height="108" frameX="-188" frameY="-239" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0027" x="1853" y="0" width="106" height="108" frameX="-180" frameY="-241" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0028" x="0" y="507" width="115" height="120" frameX="-175" frameY="-235" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0029" x="115" y="507" width="0" height="0" frameX="-143" frameY="-173" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0030" x="115" y="507" width="0" height="0" frameX="-143" frameY="-173" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0031" x="115" y="507" width="0" height="0" frameX="-143" frameY="-173" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0032" x="115" y="507" width="0" height="0" frameX="-143" frameY="-173" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion abierto0033" x="115" y="507" width="0" height="0" frameX="-143" frameY="-173" frameWidth="470" frameHeight="507"/>
+	<SubTexture name="Candado animacion cerrado al clickear0000" x="115" y="507" width="183" height="283" frameX="0" frameY="0" frameWidth="201" frameHeight="283"/>
+	<SubTexture name="Candado animacion cerrado al clickear0001" x="298" y="507" width="183" height="261" frameX="-18" frameY="0" frameWidth="201" frameHeight="283"/>
+	<SubTexture name="Candado animacion cerrado al clickear0002" x="115" y="507" width="183" height="283" frameX="-14" frameY="0" frameWidth="201" frameHeight="283"/>
+	<SubTexture name="Candado animacion cerrado al clickear0003" x="481" y="507" width="183" height="273" frameX="-9" frameY="0" frameWidth="201" frameHeight="283"/>
+	<SubTexture name="Candado animacion cerrado al clickear0004" x="664" y="507" width="183" height="274" frameX="-7" frameY="0" frameWidth="183" frameHeight="274"/>
+	<SubTexture name="Candado animacion cerrado al clickear0005" x="664" y="507" width="183" height="274" frameX="-7" frameY="0" frameWidth="183" frameHeight="274"/>
+	<SubTexture name="Candado animacion cerrado al clickear0006" x="664" y="507" width="183" height="274" frameX="-7" frameY="0" frameWidth="183" frameHeight="274"/>
+	<SubTexture name="Candado animacion cerrado al clickear0007" x="664" y="507" width="183" height="274" frameX="-7" frameY="0" frameWidth="183" frameHeight="274"/>
+	<SubTexture name="Candado animacion cerrado al clickear0008" x="664" y="507" width="183" height="274" frameX="-7" frameY="0" frameWidth="183" frameHeight="274"/>
+	<SubTexture name="Candado animacion cerrado al clickear0009" x="664" y="507" width="183" height="274" frameX="-7" frameY="0" frameWidth="183" frameHeight="274"/>
+	<SubTexture name="Candado animacion cerrado estatico0000" x="664" y="507" width="183" height="274"/>
+</TextureAtlas>

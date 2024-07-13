@@ -19,7 +19,7 @@ import flixel.group.FlxGroup;
 import flixel.input.gamepad.FlxGamepad;
 import flixel.math.FlxPoint;
 import flixel.math.FlxRect;
-import flixel.system.FlxSound;
+import flixel.sound.FlxSound;
 import flixel.system.ui.FlxSoundTray;
 import flixel.text.FlxText;
 import flixel.tweens.FlxEase;
@@ -27,6 +27,7 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import lime.app.Application;
+import flixel.util.FlxSave;
 import openfl.Assets;
 
 using StringTools;
@@ -40,6 +41,10 @@ class TitleState extends MusicBeatState
 	var credTextShit:Alphabet;
 	var textGroup:FlxGroup;
 	var ngSpr:FlxSprite;
+	var devs:FlxSprite;
+	var lfg:FlxSprite;
+
+	private var isFirstTime:Bool;
 
 	var curWacky:Array<String> = [];
 
@@ -47,19 +52,48 @@ class TitleState extends MusicBeatState
 
 	override public function create():Void
 	{
-		#if polymod
-		polymod.Polymod.init({modRoot: "mods", dirs: ['introMod']});
-		#end
 
 		PlayerSettings.init();
 
 		curWacky = FlxG.random.getObject(getIntroTextShit());
 
+		var save:FlxSave = new FlxSave();
+
+		 // Intentar cargar el estado guardado
+		 if (save.bind("firsttime"))
+			{
+				// Verificar si la variable "firstTime" existe
+				if (save.data.firstTime == null)
+				{
+					// Si no existe, es la primera vez
+					isFirstTime = true;
+					SEData.initSave();
+					trace('loading default settings');
+					save.data.firstTime = false; // Guardar que ya no es la primera vez
+					save.flush(); // Guardar los cambios
+				}
+				else
+				{
+					// Si existe, no es la primera vez
+					isFirstTime = false;
+				}
+			}
+			
+			// Hacer un trace para indicar si es la primera vez o no
+			if (isFirstTime)
+			{
+				trace("Its first time: true.");
+			}
+			else
+			{
+				trace("Its first time: false.");
+			}
+
 		// DEBUG BULLSHIT
 
 		super.create();
 
-		FlxG.save.bind('funkin', 'ninjamuffin99');
+		FlxG.save.bind('funkin', 'BearzerkerFNFTeam');
 
 		Highscore.load();
 
@@ -131,7 +165,7 @@ class TitleState extends MusicBeatState
 			FlxG.sound.music.fadeIn(4, 0, 0.7);
 		}
 
-		Conductor.changeBPM(102);
+		Conductor.changeBPM(90);
 		persistentUpdate = true;
 
 		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.WHITE);
@@ -147,10 +181,10 @@ class TitleState extends MusicBeatState
 
 
 		logoBl = new FlxSprite(0, 0);
-		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
+		logoBl.frames = Paths.getSparrowAtlas('logo');
 		logoBl.antialiasing = true;
-		logoBl.animation.addByPrefix('bump', 'logoBumpin', 24);
-		logoBl.animation.play('bump');
+		logoBl.animation.addByPrefix('bump', 'Logo animation', 24, false);
+		logoBl.setGraphicSize(Std.int(logoBl.width * 0.3));
 		logoBl.updateHitbox();
 		// logoBl.screenCenter();
 		// logoBl.color = FlxColor.BLACK;
@@ -160,6 +194,7 @@ class TitleState extends MusicBeatState
 		gfDance.animation.addByIndices('danceLeft', 'Idle', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
 		gfDance.animation.addByIndices('danceRight', 'Idle', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 		gfDance.antialiasing = true;
+		
 		gfDance.screenCenter();
 		add(gfDance);
 		add(logoBl);
@@ -199,6 +234,22 @@ class TitleState extends MusicBeatState
 		ngSpr.updateHitbox();
 		ngSpr.screenCenter(X);
 		ngSpr.antialiasing = true;
+
+		lfg = new FlxSprite(0, FlxG.height * 0.52).loadGraphic(Paths.image('LFG'));
+		add(lfg);
+		lfg.visible = false;
+		lfg.setGraphicSize(Std.int(lfg.width * 0.8));
+		lfg.updateHitbox();
+		lfg.screenCenter(X);
+		lfg.antialiasing = true;
+
+		devs = new FlxSprite(0, FlxG.height * 0.52).loadGraphic(Paths.image('moddevs'));
+		add(devs);
+		devs.visible = false;
+		devs.setGraphicSize(Std.int(devs.width * 0.8));
+		devs.updateHitbox();
+		devs.screenCenter(X);
+		devs.antialiasing = true;
 
 		FlxTween.tween(credTextShit, {y: credTextShit.y + 20}, 2.9, {ease: FlxEase.quadInOut, type: PINGPONG});
 
@@ -278,14 +329,17 @@ class TitleState extends MusicBeatState
 
 			new FlxTimer().start(2, function(tmr:FlxTimer)
 			{
-					FlxG.switchState(new MainMenuState());
+					FlxG.switchState(new OptionsAdvisor());
 			});
 			// FlxG.sound.play(Paths.music('titleShoot'), 0.7);
 		}
 
 		if (pressedEnter && !skippedIntro)
 		{
-			skipIntro();
+			if (!isFirstTime)
+				{
+					skipIntro();
+				}
 		}
 
 		super.update(elapsed);
@@ -297,7 +351,7 @@ class TitleState extends MusicBeatState
 		{
 			var money:Alphabet = new Alphabet(0, 0, textArray[i], true, false);
 			money.screenCenter(X);
-			money.y += (i * 60) + 200;
+			money.y += (i * 60) + 100;
 			credGroup.add(money);
 			textGroup.add(money);
 		}
@@ -307,7 +361,7 @@ class TitleState extends MusicBeatState
 	{
 		var coolText:Alphabet = new Alphabet(0, 0, text, true, false);
 		coolText.screenCenter(X);
-		coolText.y += (textGroup.length * 60) + 200;
+		coolText.y += (textGroup.length * 60) + 100;
 		credGroup.add(coolText);
 		textGroup.add(coolText);
 	}
@@ -325,66 +379,84 @@ class TitleState extends MusicBeatState
 	{
 		super.beatHit();
 
-		logoBl.animation.play('bump');
-		danceLeft = !danceLeft;
+			FlxG.log.add(curBeat);
+			if (curBeat % 2 == 0){
+				gfDance.animation.play('danceRight');
+				gfDance.animation.play('danceLeft');
+				logoBl.animation.play('bump', false);
+				
+				}
+				FlxG.camera.zoom += 0.03;
+		FlxTween.tween(FlxG.camera, { zoom: 1 }, 0.1);
 
-		if (danceLeft)
-			gfDance.animation.play('danceRight');
-		else
-			gfDance.animation.play('danceLeft');
 
-		FlxG.log.add(curBeat);
-
-		switch (curBeat)
-		{
-			case 1:
-				createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
-			// credTextShit.visible = true;
-			case 3:
-				addMoreText('present');
-			// credTextShit.text += '\npresent...';
-			// credTextShit.addText();
-			case 4:
-				deleteCoolText();
-			// credTextShit.visible = false;
-			// credTextShit.text = 'In association \nwith';
-			// credTextShit.screenCenter();
-			case 5:
-				createCoolText(['In association', 'with']);
-			case 7:
-				addMoreText('newgrounds');
-				ngSpr.visible = true;
-			// credTextShit.text += '\nNewgrounds';
-			case 8:
-				deleteCoolText();
-				ngSpr.visible = false;
-			// credTextShit.visible = false;
-
-			// credTextShit.text = 'Shoutouts Tom Fulp';
-			// credTextShit.screenCenter();
-			case 9:
-				createCoolText([curWacky[0]]);
-			// credTextShit.visible = true;
-			case 11:
-				addMoreText(curWacky[1]);
-			// credTextShit.text += '\nlmao';
-			case 12:
-				deleteCoolText();
-			// credTextShit.visible = false;
-			// credTextShit.text = "Friday";
-			// credTextShit.screenCenter();
-			case 13:
-				addMoreText('Friday');
-			// credTextShit.visible = true;
-			case 14:
-				addMoreText('Night');
-			// credTextShit.text += '\nNight';
-			case 15:
-				addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
-
-			case 16:
-				skipIntro();
-		}
+				switch (curBeat)
+				{
+					case 2:
+									createCoolText(['Oh']);
+								// credTextShit.visible = true;
+								case 3:
+									if (isFirstTime)
+										{
+											addMoreText('Hello There');
+										}
+										else
+											{
+												addMoreText('Hello Again');
+											}
+								case 4:
+									addMoreText(':]');
+								case 6:
+									deleteCoolText();
+									createCoolText(['A MOD ORIGINALLY CREATED BY']);
+								case 7:
+									addMoreText('IGNITEDBOI');
+								case 8:
+									addMoreText('RADG');
+								case 9:
+									addMoreText('SPRINGI');
+									devs.visible = true;
+								case 11:
+									devs.visible = false;
+									deleteCoolText();
+									createCoolText(['With our new pals']);
+									addMoreText('of the Dev Team:');
+									addMoreText(':');
+								case 12:
+									addMoreText('Anon');
+									addMoreText('Sushi');
+									addMoreText('The Car');
+									addMoreText('And Charter');
+								case 14:
+									deleteCoolText();
+									createCoolText(['Newer special thanks to:']);
+									addMoreText('');
+								case 15:
+									addMoreText('Benvu - Blue - Skyvu');
+									addMoreText('Animate a thing - JustsallyKM');
+									addMoreText('Happie - Capnugly - Sined');
+									addMoreText('Extinct - Radicalmailbox');
+									addMoreText('OhLookItsBenny');
+								case 17:
+									deleteCoolText();
+									createCoolText(['a mod created for the']);
+									addMoreText('Battle bears community');
+									addMoreText('We Present to you...');
+								case 19:
+									deleteCoolText();
+									createCoolText(['Beartastic']);
+								case 20:
+									addMoreText('Night');
+								case 21:
+									addMoreText('Funkin');
+								case 22:
+									addMoreText('VS BEARZERKER');
+					                lfg.visible = true;
+								case 24:
+									deleteCoolText();
+									lfg.visible = false;
+									skipIntro();
+				}
 	}
 
 	var skippedIntro:Bool = false;
@@ -394,6 +466,8 @@ class TitleState extends MusicBeatState
 		if (!skippedIntro)
 		{
 			remove(ngSpr);
+			remove(devs);
+			remove(lfg);
 
 			FlxG.camera.flash(FlxColor.WHITE, 4);
 			remove(credGroup);

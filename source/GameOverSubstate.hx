@@ -20,20 +20,8 @@ class GameOverSubstate extends MusicBeatSubstate
 		var daBf:String = '';
 		switch (daStage)
 		{
-			case 'school':
-				stageSuffix = '-pixel';
-				daBf = 'bf-pixel-dead';
-			case 'schoolEvil':
-				stageSuffix = '-pixel';
-				daBf = 'bf-pixel-dead';
-			case 'huggable-fields':
-			    daBf = 'bf-dead';
-			case 'necrotower':
-				daBf = 'bf-dead';
-			case 'H.I.P':
-			    daBf = 'bf-dead';
 			default:
-				daBf = 'bf';
+				daBf = 'bf-dead';
 		}
 
 		super();
@@ -43,7 +31,8 @@ class GameOverSubstate extends MusicBeatSubstate
 		bf = new Boyfriend(x, y, daBf);
 		add(bf);
 
-
+		camFollow = new FlxObject(bf.getGraphicMidpoint().x, bf.getGraphicMidpoint().y - 600, 1, 1);
+		add(camFollow);
 
 		FlxG.sound.play(Paths.sound('fnf_loss_sfx' + stageSuffix));
 		Conductor.changeBPM(100);
@@ -72,7 +61,7 @@ class GameOverSubstate extends MusicBeatSubstate
 			if (PlayState.isStoryMode)
 				FlxG.switchState(new StoryMenuState());
 			else
-				FlxG.switchState(new NewFreeplay());
+				FlxG.switchState(new FreeplaySelect());
 		}
 
 		if (bf.animation.curAnim.name == 'firstDeath')

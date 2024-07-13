@@ -23,20 +23,17 @@ class StoryMenuState extends MusicBeatState
 	var scoreText:FlxText;
 
 	var weekData:Array<Dynamic> = [
-		['Tutorial'],
 		['The-Bearzerker', 'Mecha-Bearzerker'],
 	];
 	var curDifficulty:Int = 1;
 
-	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];
+	public static var weekUnlocked:Array<Bool> = [true];
 
 	var weekCharacters:Array<Dynamic> = [
-		['', 'bf', ''],
 		['', 'bf', ''],
 	];
 
 	var weekNames:Array<String> = [
-		"",
 		"Hug Me",
 	];
 
@@ -164,7 +161,6 @@ class StoryMenuState extends MusicBeatState
 		sprDifficulty.animation.addByPrefix('easy', 'EASY');
 		sprDifficulty.animation.addByPrefix('normal', 'NORMAL');
 		sprDifficulty.animation.addByPrefix('hard', 'HARD');
-		sprDifficulty.animation.addByPrefix('remix', 'REMIX');
 		sprDifficulty.animation.play('easy');
 		changeDifficulty();
 
@@ -293,8 +289,6 @@ class StoryMenuState extends MusicBeatState
 					diffic = '-easy';
 				case 2:
 					diffic = '-hard';
-				case 3:
-					diffic = '-remix';
 			}
 
 			PlayState.storyDifficulty = curDifficulty;
@@ -306,7 +300,7 @@ class StoryMenuState extends MusicBeatState
 			{
 					if (FlxG.sound.music != null)
 						FlxG.sound.music.stop();
-					FlxG.switchState(new ChangePlayerState());
+					LoadingState.loadAndSwitchState(new PlayState());
 			});
 		}
 	}
@@ -333,9 +327,6 @@ class StoryMenuState extends MusicBeatState
 			case 2:
 				sprDifficulty.animation.play('hard');
 				sprDifficulty.offset.x = 20;
-			case 3:
-				sprDifficulty.animation.play('remix');
-				sprDifficulty.offset.x = 70;
 		}
 
 		sprDifficulty.alpha = 0;

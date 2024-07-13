@@ -3,7 +3,7 @@ package;
 import openfl.display.Preloader.DefaultPreloader;
 import flixel.FlxG;
 import flixel.FlxSprite;
-import flixel.addons.plugin.FlxMouseControl;
+import flixel.input.mouse.FlxMouseEvent;
 import flixel.addons.transition.FlxTransitionableState;
 import flixel.graphics.frames.FlxAtlasFrames;
 import flixel.group.FlxGroup.FlxTypedGroup;

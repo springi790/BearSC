@@ -33,8 +33,6 @@ class OptionsMenu extends MusicBeatState
 			#else
 			new DFJKOption(controls),
 			#end
-			new NewInput("This option Activate Ghost Tapping"),
-			new HealthBarColours("Show every character with a different bar colour"),
 			new DownScroll("Notes Scroll Down"),
 			new MidScroll("Notes Scroll Middle"),
 			new SongPositionOption("Makes a bar of Song Progress"),
@@ -45,12 +43,6 @@ class OptionsMenu extends MusicBeatState
 			new FPSCapOption("Change your FPS Cap."),
 			#end
 			new Optimization("For those who are willing and crying like babies saying the game is laggy")
-		]),
-		new OptionCategory("HUD", [
-			new EngineWatermarks("See Engine Watermarks InGame"),
-			new CustomizeGameplay("Drag'n'Drop Gameplay Modules around to your preference"),
-			new VanillaHUD("Change the HUD"),
-			new Aura(""),
 		]),
 		new OptionCategory("Reset", [
 			new ResetSettings("Reset All Settings")

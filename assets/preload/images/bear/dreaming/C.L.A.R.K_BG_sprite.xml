@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="C.L.A.R.K BG sprite.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Clark idle0000" x="0" y="0" width="82" height="65" frameX="-12" frameY="-22" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0001" x="0" y="0" width="82" height="65" frameX="-12" frameY="-22" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0002" x="82" y="0" width="84" height="78" frameX="-11" frameY="-8" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0003" x="82" y="0" width="84" height="78" frameX="-11" frameY="-8" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0004" x="166" y="0" width="83" height="89" frameX="-6" frameY="-1" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0005" x="166" y="0" width="83" height="89" frameX="-6" frameY="-1" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0006" x="249" y="0" width="82" height="77" frameX="-5" frameY="-6" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0007" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0008" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0009" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0010" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0011" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0012" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0013" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0014" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0015" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0016" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0017" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0018" x="413" y="0" width="72" height="72" frameX="0" frameY="-18" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0019" x="413" y="0" width="72" height="72" frameX="0" frameY="-18" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0020" x="0" y="89" width="72" height="76" frameX="-1" frameY="-10" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0021" x="0" y="89" width="72" height="76" frameX="-1" frameY="-10" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0022" x="72" y="89" width="82" height="89" frameX="-5" frameY="0" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0023" x="72" y="89" width="82" height="89" frameX="-5" frameY="0" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0024" x="154" y="89" width="82" height="75" frameX="-5" frameY="-7" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0025" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0026" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0027" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0028" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0029" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0030" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0031" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0032" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0033" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0034" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0035" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0036" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark idle0037" x="331" y="0" width="82" height="79" frameX="-5" frameY="-5" frameWidth="95" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0000" x="236" y="89" width="94" height="59" frameX="0" frameY="-21" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0001" x="236" y="89" width="94" height="59" frameX="0" frameY="-21" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0002" x="330" y="89" width="75" height="90" frameX="-8" frameY="0" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0003" x="330" y="89" width="75" height="90" frameX="-8" frameY="0" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0004" x="405" y="89" width="79" height="84" frameX="-6" frameY="-4" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0005" x="405" y="89" width="79" height="84" frameX="-6" frameY="-4" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0006" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0007" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0008" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0009" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0010" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0011" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0012" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0013" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0014" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0015" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0016" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0017" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0018" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+	<SubTexture name="Clark miss note reaction0019" x="0" y="179" width="82" height="82" frameX="-5" frameY="-5" frameWidth="94" frameHeight="90"/>
+</TextureAtlas>

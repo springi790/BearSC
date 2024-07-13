@@ -1,0 +1,35 @@
+[The-Bearzerker]
+Charter: SPRINGI
+Composer: The Car
+
+[Mecha-Bearzerker]
+Charter: RADG
+Composer: RADG
+
+[Zombearzerker]
+Charter: RADG
+Composer: RADG
+
+[Cy-Bearzerker]
+Charter: RADG
+Composer: RADG
+
+[Board-game]
+Charter: The Charter
+Composer: The Car
+
+[Necromancer]
+Charter: RADG
+Composer: RADG
+
+[Dreaming]
+Charter: SPRINGI
+Composer: SPRINGI
+
+[Verruckt]
+Charter: RADG
+Composer: RADG
+
+//DONT DELETE THIS, IS PART OF THE GAME
+
+

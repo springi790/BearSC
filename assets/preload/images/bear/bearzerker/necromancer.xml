@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="necromancer.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Necromancer0000" x="0" y="0" width="546" height="473" frameX="0" frameY="-32" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0001" x="0" y="0" width="546" height="473" frameX="0" frameY="-32" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0002" x="546" y="0" width="528" height="487" frameX="-18" frameY="-16" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0003" x="546" y="0" width="528" height="487" frameX="-18" frameY="-16" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0004" x="1074" y="0" width="510" height="500" frameX="-35" frameY="-3" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0005" x="1074" y="0" width="510" height="500" frameX="-35" frameY="-3" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0006" x="0" y="500" width="506" height="502" frameX="-38" frameY="-1" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0007" x="0" y="500" width="506" height="502" frameX="-38" frameY="-1" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0008" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0009" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0010" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0011" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0012" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0013" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0014" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0015" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0016" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0017" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0018" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+	<SubTexture name="Necromancer0019" x="506" y="500" width="505" height="503" frameX="-39" frameY="0" frameWidth="546" frameHeight="505"/>
+</TextureAtlas>

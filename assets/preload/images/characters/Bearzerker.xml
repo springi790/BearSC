@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bearzerker.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bearzerker Down pose0000" x="0" y="0" width="1167" height="820" frameX="-56" frameY="-45" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0001" x="0" y="0" width="1167" height="820" frameX="-56" frameY="-45" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0002" x="1167" y="0" width="1184" height="848" frameX="-25" frameY="-17" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0003" x="1167" y="0" width="1184" height="848" frameX="-25" frameY="-17" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0004" x="2351" y="0" width="1190" height="858" frameX="-11" frameY="-7" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0005" x="2351" y="0" width="1190" height="858" frameX="-11" frameY="-7" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0006" x="3541" y="0" width="1209" height="864" frameX="-6" frameY="-1" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0007" x="3541" y="0" width="1209" height="864" frameX="-6" frameY="-1" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0008" x="4750" y="0" width="1227" height="864" frameX="0" frameY="-1" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0009" x="4750" y="0" width="1227" height="864" frameX="0" frameY="-1" frameWidth="1232" frameHeight="865"/>
+	<SubTexture name="Bearzerker Down pose0010" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0011" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0012" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0013" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0014" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0015" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0016" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0017" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0018" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Down pose0019" x="5977" y="0" width="1232" height="865"/>
+	<SubTexture name="Bearzerker Left pose0000" x="7209" y="0" width="906" height="1085" frameX="-3" frameY="0" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0001" x="7209" y="0" width="906" height="1085" frameX="-3" frameY="0" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0002" x="0" y="1085" width="943" height="1056" frameX="0" frameY="-29" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0003" x="0" y="1085" width="943" height="1056" frameX="0" frameY="-29" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0004" x="943" y="1085" width="950" height="1063" frameX="-3" frameY="-22" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0005" x="943" y="1085" width="950" height="1063" frameX="-3" frameY="-22" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0006" x="1893" y="1085" width="955" height="1068" frameX="-1" frameY="-17" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0007" x="1893" y="1085" width="955" height="1068" frameX="-1" frameY="-17" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0008" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0009" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0010" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0011" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0012" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0013" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0014" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0015" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0016" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0017" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0018" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Left pose0019" x="2848" y="1085" width="956" height="1069" frameX="-3" frameY="-16" frameWidth="959" frameHeight="1085"/>
+	<SubTexture name="Bearzerker Right pose0000" x="3804" y="1085" width="1143" height="892" frameX="-3" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0001" x="3804" y="1085" width="1143" height="892" frameX="-3" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0002" x="4947" y="1085" width="1104" height="892" frameX="-1" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0003" x="4947" y="1085" width="1104" height="892" frameX="-1" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0004" x="6051" y="1085" width="1087" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0005" x="6051" y="1085" width="1087" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0006" x="0" y="2154" width="1077" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0007" x="0" y="2154" width="1077" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0008" x="1077" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0009" x="1077" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0010" x="2148" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0011" x="2148" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0012" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0013" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0014" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0015" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0016" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0017" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0018" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker Right pose0019" x="3219" y="2154" width="1071" height="892" frameX="0" frameY="0" frameWidth="1146" frameHeight="892"/>
+	<SubTexture name="Bearzerker up pose0000" x="4290" y="2154" width="1103" height="1608" frameX="-24" frameY="0" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0001" x="4290" y="2154" width="1103" height="1608" frameX="-24" frameY="0" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0002" x="5393" y="2154" width="1125" height="1547" frameX="-2" frameY="-60" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0003" x="5393" y="2154" width="1125" height="1547" frameX="-2" frameY="-60" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0004" x="6518" y="2154" width="1127" height="1495" frameX="0" frameY="-112" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0005" x="6518" y="2154" width="1127" height="1495" frameX="0" frameY="-112" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0006" x="0" y="3762" width="1124" height="1482" frameX="-1" frameY="-125" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0007" x="0" y="3762" width="1124" height="1482" frameX="-1" frameY="-125" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0008" x="1124" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0009" x="1124" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0010" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0011" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0012" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0013" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0014" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0015" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0016" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0017" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0018" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker up pose0019" x="2248" y="3762" width="1124" height="1478" frameX="-1" frameY="-129" frameWidth="1127" frameHeight="1608"/>
+	<SubTexture name="Bearzerker_Idle0000" x="3372" y="3762" width="996" height="976" frameX="-7" frameY="-54" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0001" x="3372" y="3762" width="996" height="976" frameX="-7" frameY="-54" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0002" x="4368" y="3762" width="992" height="1007" frameX="-3" frameY="-23" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0003" x="4368" y="3762" width="992" height="1007" frameX="-3" frameY="-23" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0004" x="5360" y="3762" width="984" height="1016" frameX="0" frameY="-14" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0005" x="5360" y="3762" width="984" height="1016" frameX="0" frameY="-14" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0006" x="6344" y="3762" width="978" height="1021" frameX="-2" frameY="-9" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0007" x="6344" y="3762" width="978" height="1021" frameX="-2" frameY="-9" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0008" x="0" y="5244" width="979" height="1029" frameX="-1" frameY="-1" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0009" x="0" y="5244" width="979" height="1029" frameX="-1" frameY="-1" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0010" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0011" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0012" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0013" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0014" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0015" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0016" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0017" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0018" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+	<SubTexture name="Bearzerker_Idle0019" x="979" y="5244" width="976" height="1030" frameX="0" frameY="0" frameWidth="1003" frameHeight="1030"/>
+</TextureAtlas>

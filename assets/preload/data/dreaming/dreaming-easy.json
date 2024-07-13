@@ -1,0 +1,15 @@
+{
+    "song": {
+        "player2": "Posh",
+        "player1": "oliver",
+        "stage": "dream?",
+        "speed": 3.5,
+        "needsVoices": true,
+        "sectionLengths": [],
+        "song": "dreaming",
+        "notes": [],
+        "bpm": 135,
+        "sections": 0,
+        "validScore": true
+    }
+}

@@ -6,7 +6,7 @@
 
 btw here's the source code if you want to see it or steal code whatever
 
-Status: WIP
+Status: PART 1!!!!
 
 Another Fun Fact: Spring Engine is basically a combination of kade and psych engines!
 
@@ -31,3 +31,7 @@ https://www.youtube.com/watch?v=RXRwohFsaac
 
 Play VS Aracely Mod
 https://gamebanana.com/mods/333190
+
+# Android Porters
+
+If you want you can port this mod, only give credits ;)

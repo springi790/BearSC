@@ -13,6 +13,7 @@ class Character extends FlxSprite
 	public var debugMode:Bool = false;
 
 	public var isPlayer:Bool = false;
+	public var cameraPosition:Array<Float> = [0, 0];
 	public var curCharacter:String = 'bf';
     public var noteStyle:String = 'normal';
 	public var healthcolor:Int = 0x00FF00;
@@ -298,20 +299,40 @@ class Character extends FlxSprite
 				case 'bearzerker':
 					noteStyle = 'normal';
 					healthcolor = 0xFFFFA0DF;
-					tex = Paths.getSparrowAtlas('characters/bearzerker');
+					tex = Paths.getSparrowAtlas('characters/Bearzerker');
 					frames = tex;
-					animation.addByPrefix('idle', 'Bearzerker Idle', 24, false);
-					animation.addByPrefix('singUP', 'Bearzerker Up', 24, false);
-					animation.addByPrefix('singRIGHT', 'Bearzerker Right', 24, false);
-					animation.addByPrefix('singDOWN', 'Bearzerker Down', 24, false);
-					animation.addByPrefix('singLEFT', 'Bearzerker Left', 24, false);
+					animation.addByPrefix('idle', 'Bearzerker_Idle', 24, false);
+					animation.addByPrefix('singUP', 'Bearzerker up pose', 24, false);
+					animation.addByPrefix('singRIGHT', 'Bearzerker Right pose', 24, false);
+					animation.addByPrefix('singDOWN', 'Bearzerker Down pose', 24, false);
+					animation.addByPrefix('singLEFT', 'Bearzerker Left pose', 24, false);
 	
 					addOffset('idle');
-					addOffset("singUP");
-					addOffset("singRIGHT");
-					addOffset("singLEFT");
-					addOffset("singDOWN");
+					addOffset("singUP", 340, 570);
+					addOffset("singRIGHT", -20, -140);
+					addOffset("singLEFT", 200, 13);
+					addOffset("singDOWN", 230, -180);
 	
+					playAnim('idle');
+					if(!FlxG.save.data.antialiasing){antialiasing = false;}
+				
+				case 'purplewil':
+					noteStyle = 'normal';
+					healthcolor = 0xFFA257AA;
+					tex = Paths.getSparrowAtlas('characters/purple-wil');
+					frames = tex;
+					animation.addByPrefix('idle', 'purple Wil Idle', 24, false);
+					animation.addByPrefix('singUP', 'purple Wil Up pose', 24, false);
+					animation.addByPrefix('singRIGHT', 'purple Wil Left pose', 24, false);
+					animation.addByPrefix('singDOWN', 'purple Wil Down pose', 24, false);
+					animation.addByPrefix('singLEFT', 'purple Wil Right pose', 24, false);
+		
+					addOffset('idle');
+					addOffset("singUP", -191, 366);
+					addOffset("singRIGHT", -270, 40);
+					addOffset("singLEFT", -10, 190);
+					addOffset("singDOWN", -250, -10);
+		
 					playAnim('idle');
 					if(!FlxG.save.data.antialiasing){antialiasing = false;}
 	
@@ -337,20 +358,20 @@ class Character extends FlxSprite
 
 					case 'cybearzerker':
 						noteStyle = 'cy-bearzerker';
-						healthcolor = 0xFFC085AC;
-						tex = Paths.getSparrowAtlas('characters/Mecha-Bearzerker');
+						healthcolor = 0xFF5C5C5C;
+						tex = Paths.getSparrowAtlas('characters/Cy-Bearzerker');
 						frames = tex;
-						animation.addByPrefix('idle', 'Mecha_Idle', 24, false);
-						animation.addByPrefix('singUP', 'Mecha_Up', 24, false);
-						animation.addByPrefix('singRIGHT', 'Mecha_Right', 24, false);
-						animation.addByPrefix('singDOWN', 'Mecha_Down', 24, false);
-						animation.addByPrefix('singLEFT', 'Mecha_Left', 24, false);
+						animation.addByPrefix('idle', 'Cy Idle', 24, false);
+						animation.addByPrefix('singUP', 'Cy Up', 24, false);
+						animation.addByPrefix('singRIGHT', 'Cy Right', 24, false);
+						animation.addByPrefix('singDOWN', 'Cy Down', 24, false);
+						animation.addByPrefix('singLEFT', 'Cy Left', 24, false);
 		
 						addOffset('idle');
-						addOffset("singUP", 278, 180);
-						addOffset("singRIGHT", 173, 137);
-						addOffset("singLEFT", 350, 41);
-						addOffset("singDOWN", 460, -5);
+						addOffset("singUP", 418, -104);
+						addOffset("singRIGHT", -590, -4);
+						addOffset("singLEFT", 0, 0);
+						addOffset("singDOWN", -129, -240);
 		
 						playAnim('idle');
 						if(!FlxG.save.data.antialiasing){antialiasing = false;}	
@@ -389,7 +410,7 @@ class Character extends FlxSprite
 				animation.addByPrefix('singLEFTmiss', 'BF NOTE LEFT MISS', false);
 				animation.addByPrefix('singRIGHTmiss', 'BF NOTE RIGHT MISS', false);
 				animation.addByPrefix('singDOWNmiss', 'BF NOTE DOWN MISS', false);
-				animation.addByPrefix('hey', 'BF HEY', false);
+				animation.addByPrefix('hey', 'BF HEY!!', false);
 				animation.addByPrefix('hit', 'BF hit', false);
 				animation.addByPrefix('dodge', 'boyfriend dodge', false);
 
@@ -405,6 +426,35 @@ class Character extends FlxSprite
 
 				flipX = true;
 				if(!FlxG.save.data.antialiasing){antialiasing = false;}
+
+				case 'oliver':
+					noteStyle = 'normal';
+					healthcolor = 0xFF5B4536;
+					var tex = Paths.getSparrowAtlas('characters/Oliver');
+					frames = tex;
+					animation.addByPrefix('idle', 'Oliver idle', 24, false);
+					animation.addByPrefix('singUP', 'Oliver up pose', false);
+					animation.addByPrefix('singLEFT', 'Oliver left pose', false);
+					animation.addByPrefix('singRIGHT', 'Oliver right pose', false);
+					animation.addByPrefix('singDOWN', 'Oliver down pose', false);
+					animation.addByPrefix('singUPmiss', 'Oliver up wrong', false);
+					animation.addByPrefix('singLEFTmiss', 'Oliver Left Wrong', false);
+					animation.addByPrefix('singRIGHTmiss', 'Oliver right wrong', false);
+					animation.addByPrefix('singDOWNmiss', 'Oliver down wrong', false);
+	
+					addOffset('idle');
+					addOffset("singUP", 74, 197);
+					addOffset("singRIGHT", -70, 20);
+					addOffset("singLEFT", 0, 17);
+					addOffset("singDOWN", -31, 0);
+					addOffset("singUPmiss", 80, 222);
+					addOffset("singRIGHTmiss", -50, 140);
+					addOffset("singLEFTmiss", -4, 45);
+					addOffset("singDOWNmiss", 0, 33);
+
+					playAnim('idle');
+
+					flipX = true;
 
 				case 'leo':
 				noteStyle = 'normal';
@@ -479,7 +529,7 @@ class Character extends FlxSprite
 				case 'bf-dia':
 				noteStyle = 'normal';
 				healthcolor = 0xFF000000;
-				var tex = Paths.getSparrowAtlas('characters/Dia_assets', 'shared');
+				var tex = Paths.getSparrowAtlas('characters/Dia_assets');
 				frames = tex;
 				animation.addByPrefix('idle', 'Idle', 24, false);
 				animation.addByPrefix('singUP', 'Up', false);
@@ -510,7 +560,7 @@ class Character extends FlxSprite
 				if(!FlxG.save.data.antialiasing){antialiasing = false;}
 
 				case 'bearzombie':
-				noteStyle = 'normal';
+				noteStyle = 'zombearzerker';
 				healthcolor = 0xFFB16F9B;
 				var tex = Paths.getSparrowAtlas('characters/Bearzombie');
 				frames = tex;
@@ -525,6 +575,26 @@ class Character extends FlxSprite
 				addOffset("singRIGHT", -244, -79);
 				addOffset("singLEFT", 304, -134);
 				addOffset("singDOWN", -232, -374);
+	
+				playAnim('idle');
+				if(!FlxG.save.data.antialiasing){antialiasing = false;}
+
+				case 'Posh':
+				noteStyle = 'normal';
+				healthcolor = 0xFFB16F9B;
+				var tex = Paths.getSparrowAtlas('characters/Posh');
+				frames = tex;
+				animation.addByPrefix('idle', 'Posh Idle', 24, false);
+				animation.addByPrefix('singUP', 'Posh up pose', false);
+				animation.addByPrefix('singRIGHT', 'Posh right pose', false);
+				animation.addByPrefix('singDOWN', 'Posh down pose', false);
+				animation.addByPrefix('singLEFT', 'Posh left pose', false);
+	
+				addOffset('idle');
+				addOffset("singUP", 80, 60);
+				addOffset("singRIGHT", -50, 45);
+				addOffset("singLEFT", 38, 8);
+				addOffset("singDOWN", 8, 15);
 	
 				playAnim('idle');
 				if(!FlxG.save.data.antialiasing){antialiasing = false;}
@@ -560,7 +630,7 @@ class Character extends FlxSprite
 
 	public function loadOffsetFile(character:String)
 		{
-			var offset:Array<String> = CoolUtil.coolTextFile(Paths.loadOffsetFile('images/characters/' + character + "Offsets", 'shared'));
+			var offset:Array<String> = CoolUtil.coolTextFile(Paths.loadOffsetFile('images/characters/' + character + "Offsets"));
 	
 			for (i in 0...offset.length)
 			{
@@ -604,7 +674,7 @@ class Character extends FlxSprite
 	/**
 	 * FOR GF DANCING SHIT
 	 */
-	public function dance(forced:Bool = true)
+	public function dance(forced:Bool = false)
 	{
 		if (!debugMode)
 		{

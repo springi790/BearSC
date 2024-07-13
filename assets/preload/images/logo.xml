@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo animation0000" x="0" y="0" width="1719" height="1127" frameX="-157" frameY="-106" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0001" x="1719" y="0" width="2032" height="1338"/>
+	<SubTexture name="Logo animation0002" x="1719" y="0" width="2032" height="1338"/>
+	<SubTexture name="Logo animation0003" x="0" y="1338" width="1908" height="1256" frameX="-62" frameY="-41" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0004" x="0" y="1338" width="1908" height="1256" frameX="-62" frameY="-41" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0005" x="1908" y="1338" width="1881" height="1238" frameX="-76" frameY="-50" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0006" x="1908" y="1338" width="1881" height="1238" frameX="-76" frameY="-50" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0007" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0008" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0009" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0010" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0011" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0012" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0013" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0014" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0015" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+	<SubTexture name="Logo animation0016" x="0" y="2594" width="1866" height="1229" frameX="-83" frameY="-55" frameWidth="2032" frameHeight="1338"/>
+</TextureAtlas>

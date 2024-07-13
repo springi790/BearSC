@@ -8,8 +8,6 @@ import flixel.util.FlxTimer;
 import openfl.events.Event;
 import vlc.VlcBitmap;
 
-// THIS IS FOR TESTING
-// DONT STEAL MY CODE >:(
 class MP4Handler
 {
 	public var finishCallback:Void->Void;
@@ -107,7 +105,7 @@ class MP4Handler
 
 		FlxG.camera.fade(FlxColor.BLACK, 0, false);
 
-		trace("Big, Big Chungus, Big Chungus!");
+		trace("Video Finished");
 
 		new FlxTimer().start(0.3, function(tmr:FlxTimer)
 		{

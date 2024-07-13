@@ -41,7 +41,7 @@ class MenuCharacter extends FlxSprite
 
 		antialiasing = true;
 
-		frames = Paths.getSparrowAtlas('characters/BOYFRIEND', 'shared');
+		frames = Paths.getSparrowAtlas('characters/BOYFRIEND');
 
 		animation.addByPrefix('bf', "BF idle dance", 24);
 		animation.addByPrefix('bfConfirm', 'BF HEY', 24, false);

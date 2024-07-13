@@ -9,21 +9,4 @@
 	<SubTexture name="logoBumpin0004" x="547" y="411" width="547" height="411"/>
 	<SubTexture name="logoBumpin0005" x="1094" y="411" width="547" height="411"/>
 	<SubTexture name="logoBumpin0006" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0007" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0008" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0009" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0010" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0011" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0012" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0013" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0014" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0015" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0016" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0017" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0018" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0019" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0020" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0021" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0022" x="1094" y="411" width="547" height="411"/>
-	<SubTexture name="logoBumpin0023" x="1094" y="411" width="547" height="411"/>
 </TextureAtlas>

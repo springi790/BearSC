@@ -11,3 +11,6 @@ bf-bearzerker
 creepzerker
 cybearzerker
 flippy-blood
+purplewil
+oliver
+Posh

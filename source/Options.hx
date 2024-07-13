@@ -9,6 +9,7 @@ import flixel.FlxG;
 import openfl.display.FPS;
 import openfl.Lib;
 
+
 class OptionCategory
 {
 	private var _options:Array<Option> = new Array<Option>();
@@ -117,26 +118,6 @@ class AndroidOption extends Option
 	}
 }
 
-class EngineWatermarks extends Option
-{
-	public function new(desc:String)
-		{
-			super();
-			description = desc;
-		}
-	
-		public override function press():Bool
-		{
-			FlxG.save.data.engineWatermarks = !FlxG.save.data.engineWatermarks;
-			display = updateDisplay();
-			return true;
-		}
-	
-		private override function updateDisplay():String
-		{
-			return FlxG.save.data.engineWatermarks ? "Engine Watermarks On" : "Engine Watermarks Off";
-		}
-}
 
 class Bfnotesvisible extends Option
 {
@@ -320,26 +301,7 @@ class MidScroll extends Option
 		}
 }
 
-class HealthBarColours extends Option
-{
-	public function new(desc:String)
-		{
-			super();
-			description = desc;
-		}
-	
-		public override function press():Bool
-		{
-			FlxG.save.data.healthBarColours = !FlxG.save.data.healthBarColours;
-			display = updateDisplay();
-			return true;
-		}
-	
-		private override function updateDisplay():String
-		{
-			return FlxG.save.data.healthBarColours ? "Health Bar Colours On" : "Health Bar Colours Off";
-		}
-}
+
 
 class PerfectMode extends Option
 {
@@ -519,46 +481,6 @@ class VanillaHUD extends Option
 	}
 }
 
-class Aura extends Option
-{
-	public function new(desc:String)
-	{
-		super();
-		description = desc;
-	}
-	public override function press():Bool
-	{
-		FlxG.save.data.aura = !FlxG.save.data.aura;
-		display = updateDisplay();
-		return true;
-	}
-
-	private override function updateDisplay():String
-	{
-		return "" + (FlxG.save.data.aura ? "Health Borders On" : "Health Borders Off");
-	}
-}
-
-class NewInput extends Option
-{
-	public function new(desc:String)
-	{
-		super();
-		description = desc;
-	}
-	public override function press():Bool
-	{
-		FlxG.save.data.newInput = !FlxG.save.data.newInput;
-		display = updateDisplay();
-		return true;
-	}
-
-	private override function updateDisplay():String
-	{
-		return (!FlxG.save.data.newInput ? "Old Input" : "New Input");
-	}
-	
-}
 
 class ResetSettings extends Option
 	{

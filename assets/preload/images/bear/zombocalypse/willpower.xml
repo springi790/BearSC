@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="willpower.png"><SubTexture name="willpower idle0000" x="1776" y="0" width="445" height="880" frameX="-3463" frameY="-723" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0001" x="1332" y="0" width="444" height="899" frameX="-3464" frameY="-705" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0002" x="0" y="0" width="444" height="910" frameX="-3464" frameY="-694" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0003" x="444" y="0" width="444" height="910" frameX="-3464" frameY="-693" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0004" x="888" y="0" width="444" height="910" frameX="-3464" frameY="-693" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0005" x="888" y="0" width="444" height="910" frameX="-3464" frameY="-693" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0006" x="888" y="0" width="444" height="910" frameX="-3464" frameY="-693" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0007" x="888" y="0" width="444" height="910" frameX="-3464" frameY="-693" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="willpower idle0008" x="888" y="0" width="444" height="910" frameX="-3464" frameY="-693" frameWidth="4096" frameHeight="2090" />
+</TextureAtlas>

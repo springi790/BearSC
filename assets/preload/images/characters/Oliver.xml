@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Oliver.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Oliver Left Wrong0000" x="0" y="0" width="526" height="297" frameX="0" frameY="-109" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0001" x="0" y="0" width="526" height="297" frameX="0" frameY="-109" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0002" x="526" y="0" width="457" height="406" frameX="-36" frameY="0" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0003" x="526" y="0" width="457" height="406" frameX="-36" frameY="0" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0004" x="983" y="0" width="478" height="382" frameX="-28" frameY="-24" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0005" x="983" y="0" width="478" height="382" frameX="-28" frameY="-24" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0006" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0007" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0008" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0009" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0010" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0011" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0012" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0013" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0014" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0015" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0016" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0017" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0018" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver Left Wrong0019" x="1461" y="0" width="492" height="367" frameX="-21" frameY="-39" frameWidth="526" frameHeight="406"/>
+	<SubTexture name="Oliver down pose0000" x="1953" y="0" width="485" height="359" frameX="-23" frameY="-30" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0001" x="1953" y="0" width="485" height="359" frameX="-23" frameY="-30" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0002" x="2438" y="0" width="504" height="374" frameX="0" frameY="-13" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0003" x="2438" y="0" width="504" height="374" frameX="0" frameY="-13" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0004" x="2942" y="0" width="474" height="382" frameX="-5" frameY="-2" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0005" x="2942" y="0" width="474" height="382" frameX="-5" frameY="-2" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0006" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0007" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0008" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0009" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0010" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0011" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0012" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0013" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0014" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0015" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0016" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0017" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0018" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down pose0019" x="3416" y="0" width="459" height="384" frameX="-11" frameY="0" frameWidth="508" frameHeight="389"/>
+	<SubTexture name="Oliver down wrong0000" x="0" y="406" width="557" height="346" frameX="0" frameY="-80" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0001" x="0" y="406" width="557" height="346" frameX="0" frameY="-80" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0002" x="557" y="406" width="408" height="423" frameX="-51" frameY="0" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0003" x="557" y="406" width="408" height="423" frameX="-51" frameY="0" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0004" x="965" y="406" width="450" height="399" frameX="-34" frameY="-23" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0005" x="965" y="406" width="450" height="399" frameX="-34" frameY="-23" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0006" x="1415" y="406" width="457" height="387" frameX="-32" frameY="-37" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0007" x="1415" y="406" width="457" height="387" frameX="-32" frameY="-37" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0008" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0009" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0010" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0011" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0012" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0013" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0014" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0015" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0016" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0017" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0018" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver down wrong0019" x="1872" y="406" width="457" height="385" frameX="-32" frameY="-38" frameWidth="557" frameHeight="426"/>
+	<SubTexture name="Oliver idle0000" x="2329" y="406" width="532" height="319" frameX="-4" frameY="-38" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0001" x="2329" y="406" width="532" height="319" frameX="-4" frameY="-38" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0002" x="2861" y="406" width="512" height="340" frameX="0" frameY="-17" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0003" x="2861" y="406" width="512" height="340" frameX="0" frameY="-17" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0004" x="3373" y="406" width="496" height="354" frameX="-11" frameY="-3" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0005" x="3373" y="406" width="496" height="354" frameX="-11" frameY="-3" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0006" x="0" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0007" x="0" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0008" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0009" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0010" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0011" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0012" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0013" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0014" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0015" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0016" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0017" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0018" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver idle0019" x="491" y="829" width="491" height="357" frameX="-15" frameY="0" frameWidth="536" frameHeight="357"/>
+	<SubTexture name="Oliver left pose0000" x="982" y="829" width="528" height="345" frameX="0" frameY="-31" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0001" x="982" y="829" width="528" height="345" frameX="0" frameY="-31" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0002" x="1510" y="829" width="476" height="376" frameX="-30" frameY="0" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0003" x="1510" y="829" width="476" height="376" frameX="-30" frameY="0" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0004" x="1986" y="829" width="487" height="374" frameX="-28" frameY="-2" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0005" x="1986" y="829" width="487" height="374" frameX="-28" frameY="-2" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0006" x="2473" y="829" width="491" height="370" frameX="-27" frameY="-6" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0007" x="2473" y="829" width="491" height="370" frameX="-27" frameY="-6" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0008" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0009" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0010" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0011" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0012" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0013" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0014" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0015" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0016" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0017" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0018" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver left pose0019" x="2964" y="829" width="492" height="367" frameX="-27" frameY="-9" frameWidth="528" frameHeight="376"/>
+	<SubTexture name="Oliver right pose0000" x="3456" y="829" width="472" height="355" frameX="-33" frameY="-20" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0001" x="3456" y="829" width="472" height="355" frameX="-33" frameY="-20" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0002" x="0" y="1205" width="464" height="367" frameX="-10" frameY="-8" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0003" x="0" y="1205" width="464" height="367" frameX="-10" frameY="-8" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0004" x="464" y="1205" width="483" height="373" frameX="-1" frameY="-2" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0005" x="464" y="1205" width="483" height="373" frameX="-1" frameY="-2" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0006" x="947" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0007" x="947" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0008" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0009" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0010" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0011" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0012" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0013" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0014" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0015" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0016" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0017" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0018" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right pose0019" x="1433" y="1205" width="486" height="375" frameX="0" frameY="0" frameWidth="505" frameHeight="375"/>
+	<SubTexture name="Oliver right wrong0000" x="1919" y="1205" width="639" height="399" frameX="0" frameY="-96" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0001" x="1919" y="1205" width="639" height="399" frameX="0" frameY="-96" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0002" x="2558" y="1205" width="513" height="496" frameX="-45" frameY="0" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0003" x="2558" y="1205" width="513" height="496" frameX="-45" frameY="0" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0004" x="3071" y="1205" width="554" height="470" frameX="-34" frameY="-24" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0005" x="3071" y="1205" width="554" height="470" frameX="-34" frameY="-24" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0006" x="0" y="1701" width="570" height="454" frameX="-29" frameY="-40" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0007" x="0" y="1701" width="570" height="454" frameX="-29" frameY="-40" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0008" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0009" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0010" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0011" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0012" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0013" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0014" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0015" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0016" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0017" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0018" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver right wrong0019" x="570" y="1701" width="574" height="451" frameX="-28" frameY="-43" frameWidth="639" frameHeight="496"/>
+	<SubTexture name="Oliver up pose0000" x="1144" y="1701" width="586" height="430" frameX="0" frameY="-128" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0001" x="1144" y="1701" width="586" height="430" frameX="0" frameY="-128" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0002" x="1730" y="1701" width="410" height="559" frameX="-96" frameY="0" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0003" x="1730" y="1701" width="410" height="559" frameX="-96" frameY="0" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0004" x="2140" y="1701" width="457" height="534" frameX="-71" frameY="-24" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0005" x="2140" y="1701" width="457" height="534" frameX="-71" frameY="-24" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0006" x="2597" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0007" x="2597" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0008" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0009" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0010" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0011" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0012" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0013" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0014" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0015" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0016" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0017" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0018" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up pose0019" x="3076" y="1701" width="479" height="515" frameX="-60" frameY="-44" frameWidth="586" frameHeight="559"/>
+	<SubTexture name="Oliver up wrong0000" x="0" y="2260" width="612" height="435" frameX="0" frameY="-147" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0001" x="0" y="2260" width="612" height="435" frameX="0" frameY="-147" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0002" x="612" y="2260" width="448" height="582" frameX="-93" frameY="0" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0003" x="612" y="2260" width="448" height="582" frameX="-93" frameY="0" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0004" x="1060" y="2260" width="500" height="513" frameX="-63" frameY="-69" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0005" x="1060" y="2260" width="500" height="513" frameX="-63" frameY="-69" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0006" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0007" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0008" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0009" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0010" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0011" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0012" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0013" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0014" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0015" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0016" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0017" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0018" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+	<SubTexture name="Oliver up wrong0019" x="1560" y="2260" width="497" height="515" frameX="-64" frameY="-67" frameWidth="612" frameHeight="582"/>
+</TextureAtlas>

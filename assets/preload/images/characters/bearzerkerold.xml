@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bearzerker.png"><SubTexture name="bearzerker Down0000" x="3270" y="4368" width="1184" height="1220" frameX="-566" frameY="-304" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Down0001" x="4454" y="4368" width="1137" height="1186" frameX="-566" frameY="-338" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Down0002" x="5842" y="0" width="1137" height="1176" frameX="-566" frameY="-348" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Idle0000" x="4229" y="0" width="1613" height="1420" frameX="-533" frameY="-51" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Idle0001" x="4229" y="0" width="1613" height="1420" frameX="-533" frameY="-51" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Idle0002" x="1614" y="2950" width="1643" height="1333" frameX="-506" frameY="-138" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Idle0003" x="0" y="2950" width="1614" height="1418" frameX="-512" frameY="-53" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Idle0004" x="0" y="1522" width="1601" height="1428" frameX="-531" frameY="-43" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Idle0005" x="1601" y="1522" width="1605" height="1421" frameX="-532" frameY="-50" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker idle0000" x="0" y="1522" width="1601" height="1428" frameX="0" frameY="0" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Left0000" x="4326" y="2950" width="1060" height="1315" frameX="-472" frameY="-175" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Left0001" x="3257" y="2950" width="1069" height="1316" frameX="-446" frameY="-174" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Left0002" x="4229" y="1420" width="1062" height="1317" frameX="-447" frameY="-175" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Right0000" x="2198" y="4368" width="1072" height="1236" frameX="-463" frameY="-228" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Right0001" x="0" y="4368" width="1099" height="1239" frameX="-447" frameY="-225" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Right0002" x="1099" y="4368" width="1099" height="1238" frameX="-447" frameY="-226" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Up0000" x="2784" y="0" width="1445" height="1450" frameX="-433" frameY="-79" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Up0001" x="1394" y="0" width="1390" height="1518" frameX="-459" frameY="-11" frameWidth="2164" frameHeight="1624" />
+<SubTexture name="bearzerker Up0002" x="0" y="0" width="1394" height="1522" frameX="-458" frameY="-7" frameWidth="2164" frameHeight="1624" />
+</TextureAtlas>

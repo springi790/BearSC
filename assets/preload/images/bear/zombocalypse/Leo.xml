@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Leo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Leo0000" x="0" y="0" width="758" height="1201" frameX="-1539" frameY="-954" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0001" x="0" y="0" width="758" height="1201" frameX="-1539" frameY="-954" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0002" x="758" y="0" width="2242" height="2158" frameX="0" frameY="0" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0003" x="758" y="0" width="2242" height="2158" frameX="0" frameY="0" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0004" x="3000" y="0" width="788" height="1171" frameX="-1518" frameY="-987" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0005" x="3000" y="0" width="788" height="1171" frameX="-1518" frameY="-987" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0006" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0007" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0008" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0009" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0010" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0011" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0012" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0013" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0014" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0015" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0016" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0017" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0018" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+	<SubTexture name="Leo0019" x="0" y="2158" width="794" height="1163" frameX="-1513" frameY="-995" frameWidth="2307" frameHeight="2158"/>
+</TextureAtlas>

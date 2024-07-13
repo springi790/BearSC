@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Oliver Back Recharging Cable.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cable0000" x="0" y="0" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0001" x="339" y="0" width="339" height="114" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0002" x="339" y="0" width="339" height="114" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0003" x="678" y="0" width="339" height="110" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0004" x="678" y="0" width="339" height="110" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0005" x="0" y="114" width="339" height="124"/>
+	<SubTexture name="Cable0006" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0007" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0008" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0009" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0010" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0011" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0012" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0013" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0014" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0015" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0016" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0017" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0018" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+	<SubTexture name="Cable0019" x="339" y="114" width="339" height="103" frameX="0" frameY="0" frameWidth="339" frameHeight="124"/>
+</TextureAtlas>

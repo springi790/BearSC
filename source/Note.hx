@@ -143,6 +143,15 @@ class Note extends FlxSprite
 									{
 										x -= 295;
 									}
+									else
+									{
+										x += 40;
+									}
+
+									if(PlayState.curStage == 'dream?')
+										{
+											x -= 525;
+										}
 				
 							}
 							case 3:
@@ -174,6 +183,11 @@ class Note extends FlxSprite
 									{
 										x -= 310;
 									}
+									else
+									{
+										x += 40;
+									}
+								
 							}
 							case 4:
 							{
@@ -193,6 +207,10 @@ class Note extends FlxSprite
 								if(FlxG.save.data.midScroll || PlayState.SONG.song.toLowerCase() == 'monochrome')
 									{
 								        x -= 295;
+									}
+									else
+									{
+										x += 40;
 									}
 				
 							}
@@ -223,10 +241,18 @@ class Note extends FlxSprite
 									}
 							}
 
-							if(FlxG.save.data.midScroll || PlayState.SONG.song.toLowerCase() == 'monochrome')
+							if(FlxG.save.data.midScroll || PlayState.SONG.song.toLowerCase() == 'monochrome' || PlayState.curStage == 'boardgame')
 								{
 									x -= 275;
 								}
+								else
+								{
+									x += 40;
+								}
+								if(PlayState.curStage == 'dream?')
+									{
+										x -= 500;
+									}
 			
 							
 						}

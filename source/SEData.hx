@@ -18,11 +18,17 @@ class SEData
 		if (FlxG.save.data.dfjk == null)
 			FlxG.save.data.dfjk = false;
 
+		if (FlxG.save.data.songPosition == null)
+			FlxG.save.data.songPosition = true;
+
+		if (FlxG.save.data.antialiasing == null)
+            FlxG.save.data.antialiasing = true;
+	
+		if (FlxG.save.data.aura == null) 
+            FlxG.save.data.aura = true;
+
 		if (FlxG.save.data.engineWatermarks == null)
 			FlxG.save.data.engineWatermarks = true;
-
-        if (FlxG.save.data.healthBarColours == null)
-			FlxG.save.data.healthBarColours = true;
 
 		var gamepad:FlxGamepad = FlxG.gamepads.lastActive;
 		

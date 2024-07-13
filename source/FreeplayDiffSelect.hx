@@ -8,7 +8,9 @@ import flixel.FlxSprite;
 import flixel.text.FlxText;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
+import flixel.FlxCamera;
 import Controls.Control;
+import NewFreeplay;
 
 using StringTools;
 
@@ -51,7 +53,6 @@ class FreeplayDiffSelect extends FlxSubState
 		sprDifficulty.animation.addByPrefix('easy', 'EASY');
 		sprDifficulty.animation.addByPrefix('normal', 'NORMAL');
 		sprDifficulty.animation.addByPrefix('hard', 'HARD');
-		sprDifficulty.animation.addByPrefix('remix', 'REMIX');
 		sprDifficulty.animation.play('easy');
 		changeDifficulty();
 
@@ -62,14 +63,23 @@ class FreeplayDiffSelect extends FlxSubState
 
     function changeDifficulty(change:Int = 0):Void
         {
-            curDifficulty += change;
-    
-            if (curDifficulty < 0)
-                curDifficulty = 3;
-            if (curDifficulty > 3)
-                curDifficulty = 0;
-    
+
+            
+            if (NewFreeplay.songID == 'necromancer')
+                {
+                    curDifficulty = 2;
+                }
+            else
+                {
+                    curDifficulty += change;
+                if (curDifficulty < 0)
+                    curDifficulty = 2;
+                if (curDifficulty > 2)
+                    curDifficulty = 0;
+                }
+   
             sprDifficulty.offset.x = 0;
+            
     
             switch (curDifficulty)
             {
@@ -85,10 +95,6 @@ class FreeplayDiffSelect extends FlxSubState
                     sprDifficulty.animation.play('hard');
                     sprDifficulty.x = 350;
                     sprDifficulty.y = 302;
-                case 3:
-                    sprDifficulty.animation.play('remix');
-                    sprDifficulty.x = 274;
-                    sprDifficulty.y = 321;
             }
 
             sprDifficulty.alpha = 0;
@@ -98,11 +104,19 @@ class FreeplayDiffSelect extends FlxSubState
 
         override function update(elapsed:Float)
         {
+            if (NewFreeplay.songID == 'necromancer')
+                {
+                    //add nothing
+                }
+                else
+                    {
+                        if (FlxG.keys.justPressed.RIGHT)
+                            changeDifficulty(1);
+                        if (FlxG.keys.justPressed.LEFT)
+                            changeDifficulty(-1);
+                    }
             
-            if (FlxG.keys.justPressed.RIGHT)
-                changeDifficulty(1);
-            if (FlxG.keys.justPressed.LEFT)
-                changeDifficulty(-1);
+            
 
                 if(FlxG.keys.justPressed.BACKSPACE)
                 {
@@ -129,12 +143,12 @@ class FreeplayDiffSelect extends FlxSubState
 
 			PlayState.storyDifficulty = curDifficulty;
 			PlayState.campaignScore = 0;
-            PlayState.SONG = Song.loadFromJsonmecha('');
+            PlayState.SONG = Song.loadJsonfromFreeplay();
 			new FlxTimer().start(1, function(tmr:FlxTimer)
 			{
 					if (FlxG.sound.music != null)
 						FlxG.sound.music.stop();
-					FlxG.switchState(new ChangePlayerState());
+					LoadingState.loadAndSwitchState(new PlayState());
 			});
                     }
                       

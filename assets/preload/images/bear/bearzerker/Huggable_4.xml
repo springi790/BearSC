@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Huggable 4.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Huggable 40000" x="0" y="0" width="610" height="869" frameX="0" frameY="-26" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40001" x="0" y="0" width="610" height="869" frameX="0" frameY="-26" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40002" x="610" y="0" width="555" height="883" frameX="-43" frameY="-12" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40003" x="610" y="0" width="555" height="883" frameX="-43" frameY="-12" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40004" x="1165" y="0" width="551" height="892" frameX="-45" frameY="-3" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40005" x="1165" y="0" width="551" height="892" frameX="-45" frameY="-3" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40006" x="0" y="892" width="553" height="895" frameX="-43" frameY="0" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40007" x="0" y="892" width="553" height="895" frameX="-43" frameY="0" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40008" x="553" y="892" width="555" height="895" frameX="-42" frameY="0" frameWidth="610" frameHeight="895"/>
+	<SubTexture name="Huggable 40009" x="553" y="892" width="555" height="895" frameX="-42" frameY="0" frameWidth="610" frameHeight="895"/>
+</TextureAtlas>

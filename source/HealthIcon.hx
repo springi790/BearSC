@@ -32,7 +32,7 @@ class HealthIcon extends FlxSprite
 		{
 			switch(char)
 			{
-				case 'bf-pixel' | 'senpai' | 'senpai-angry' | 'spirit' | 'gf-pixel':
+				case 'bf-pixel', 'senpai', 'senpai-angry', 'spirit', 'gf-pixel':
 					antialiasing = false;
 				default:
 					antialiasing = true;
@@ -41,7 +41,6 @@ class HealthIcon extends FlxSprite
 
 		changeIcon(char);
 		scrollFactor.set();
-
 		
 		iconScale = defualtIconScale;
 		iconSize = width;
@@ -57,7 +56,19 @@ class HealthIcon extends FlxSprite
 		if (char != 'bf-pixel' && char != 'bf-old' && char != 'bf-dia' && char != 'flippy-blood')
 			char = char.split("-")[0];
 
-		loadGraphic(Paths.image('icons/icon-' + char), true, 150, 150);
+		var iconPath:String = 'assets/images/icons/icon-' + char + '.png';
+		var defaultIconPath:String = 'assets/images/icons/icon-dad.png';
+
+		// Comprobar si el archivo específico existe
+		if (sys.FileSystem.exists(iconPath)) {
+			loadGraphic(iconPath, true, 150, 150);
+			trace ('icon found');
+		} else {
+			// Cargar el icono predeterminado
+			loadGraphic(defaultIconPath, true, 150, 150);
+			trace ('there is no icon for this character');
+		}
+
 		animation.add(char, [0, 1, 2], 0, false, isPlayer);
 		animation.play(char);
 	}

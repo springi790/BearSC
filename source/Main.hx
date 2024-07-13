@@ -7,6 +7,8 @@ import Discord.DiscordClient;
 import openfl.display.BlendMode;
 import openfl.text.TextFormat;
 import flixel.util.FlxColor;
+import flixel.group.FlxGroup.FlxTypedGroup;
+import flixel.text.FlxText;
 import flixel.FlxG;
 import flixel.FlxGame;
 import flixel.FlxState;
@@ -15,22 +17,25 @@ import openfl.Lib;
 import openfl.display.FPS;
 import openfl.display.Sprite;
 import openfl.events.Event;
+import flixel.FlxSprite;
 
 class Main extends Sprite
 {
 	var gameWidth:Int = 1280; // Width of the game in pixels (might be less / more in actual pixels depending on your zoom).
 	var gameHeight:Int = 720; // Height of the game in pixels (might be less / more in actual pixels depending on your zoom).
 	#if desktop
-	var initialState:Class<FlxState> = PreloadState; // The FlxState the game starts with.
+	var initialState:Class<FlxState> = PreloadOptionState; // The FlxState the game starts with.
 	#else
 	var initialState:Class<FlxState> = TitleState; // The FlxState the game starts with.
 	#end
 	var zoom:Float = -1; // If -1, zoom is automatically calculated to fit the window dimensions.
-	var framerate:Int = 120; // How many frames per second the game should run at.
+	var framerate:Int = 120;
+	var drawFramerate:Int = 60;
+	var updateFramerate:Int = 60; // How many frames per second the game should run at.
 	var skipSplash:Bool = true; // Whether to skip the flixel splash screen that appears in release mode.
 	var startFullscreen:Bool = false; // Whether to start the game in fullscreen on desktop targets
-
 	public static var watermarks = true; // Whether to put Kade Engine literally anywhere
+	var versionShit:FlxText;
 
 	// You can pretty much ignore everything from here on - your code should go in your states.
 
@@ -41,6 +46,8 @@ class Main extends Sprite
 
 		Lib.current.addChild(new Main());
 	}
+
+	
 
 	public function new()
 	{
@@ -85,7 +92,7 @@ class Main extends Sprite
 		#end
 
 
-		game = new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen);
+		game = new FlxGame(gameWidth, gameHeight, initialState, updateFramerate, drawFramerate, skipSplash, startFullscreen);
 		addChild(game);
 		#if desktop
 		DiscordClient.initialize();
@@ -95,7 +102,6 @@ class Main extends Sprite
 		 });
 		 
 		#end
-
 		#if !mobile
 		fpsCounter = new FPS(10, 3, 0xFFFFFF);
 		addChild(fpsCounter);

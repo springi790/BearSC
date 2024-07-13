@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="couple.png"><SubTexture name="couple idle0000" x="1006" y="703" width="497" height="668" frameX="-49" frameY="-857" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="couple idle0001" x="511" y="703" width="495" height="683" frameX="-49" frameY="-843" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="couple idle0002" x="0" y="703" width="511" height="695" frameX="-26" frameY="-832" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="couple idle0003" x="1007" y="0" width="509" height="700" frameX="-28" frameY="-826" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="couple idle0004" x="0" y="0" width="514" height="703" frameX="-23" frameY="-823" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="couple idle0005" x="514" y="0" width="493" height="703" frameX="-44" frameY="-823" frameWidth="4096" frameHeight="2090" />
+<SubTexture name="couple idle0006" x="514" y="0" width="493" height="703" frameX="-44" frameY="-823" frameWidth="4096" frameHeight="2090" />
+</TextureAtlas>
