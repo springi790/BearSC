@@ -1,6 +1,6 @@
 # Friday Night Funkin VS BEARZERKER
 
-![]([https://user-images.githubusercontent.com/80663242/144484567-eb9e6480-bef8-481b-abfd-e818601bf410.png](https://github.com/springi790/BearSC/blob/main/Logo.gif?raw=true))
+![](https://raw.githubusercontent.com/springi790/BearSC/main/Logo.gif)
 
 # Fun Fact: Spring Engine was originally made to work on this mod
 
